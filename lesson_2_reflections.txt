@@ -23,3 +23,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result of merging two branches together creates new files with changes from both branches.  It is represented the way in the diagram to show how parent child nodes change
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro is it takes the grunt work of merging away.  Con is it may not always work due to conflicts
